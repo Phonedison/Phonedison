@@ -57,7 +57,7 @@ Criar soluções que unam **design**, **programação** e **análise de dados**,
 
 ### 🧰 Ferramentas Gerais  
 <p>
-  <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,notion,electron&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,notion&theme=dark&perline=3" />
 </p>
 
 
