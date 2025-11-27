@@ -1,11 +1,10 @@
-# 👋 Olá, me nome é **Lucas** mas pode me chamar de **Phonedison**!
+# 👋 Olá, tudo bem?!
+Meu nome é **Lucas** mas pode me chamar de **Phonedison**.
+Sou **Designer Gráfico**, com experiência na criação de materiais internos e externos, estratégias e comunicação visual focada no setor de transporte *(urbano e rodoviário)*. Atualmente estou em **transição de carreira para a área de tecnologia**, estudando **programação** pela Hashtag Treinamentos e me preparando para seguir na área de formação em **Sistemas da Informação**.
 
-Sou **Designer Gráfico**, com experiência na criação de materiais internos e externos, estratégias e comunicação visual focada no setor de transporte (urbano e rodoviário).  
-Atualmente estou em **transição de carreira para a área de tecnologia**, estudando **programação** pela Hashtag Treinamentos e me preparando para seguir na área de formação em **Sistemas da Informação**.
 
-
-## 🚀 Objetivo na Tecnologia
-Desenvolver soluções como **Dev Full Stack**, unindo design, programação e análise de dados para criar ferramentas web e mobile — com foco especial em processos do transporte urbano e rodoviário.
+## 🚀 Objetivo *~~: dominar o mundo~~*
+Desenvolver soluções como **Dev Full Stack**, unindo design, programação e análise de dados para criar ferramentas.
 
 
 ## 🧠 Atualmente estudando
@@ -13,7 +12,7 @@ Desenvolver soluções como **Dev Full Stack**, unindo design, programação e a
 - JavaScript  
 - Node.js  
 - React  
-- HTML e CSS  
+- HTML e CSS *(aprimorando o conhecimento)*
 - Power BI  
 
 ---
