@@ -25,7 +25,7 @@ Desenvolver soluções como **Dev Full Stack**, unindo design, programação e a
   <img src="https://skillicons.dev/icons?i=js,ts,cs,c#&theme=dark" />
 </p>
 
-### Desenvolvimento web
+### 🌐 Desenvolvimento web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark">
 </p>
