@@ -9,48 +9,55 @@ Criar soluções que unam **design**, **programação** e **análise de dados**,
 
 ## 🧠 Atualmente estudando
 
-- **JavaScript** *(principal linguagem de foco)*
-- **TypeScript**
+- **JavaScript** e **TypeScript** *(principais linguagens em foco)*
 - **Node.js**
 - **React**
-- **HTML e CSS** *(aprimorando boas práticas e estrutura)*
+- **HTML e CSS** *(estrutura, semântica e boas práticas)*
+- **Banco de Dados (SQL e NoSQL)**  
+  *(MySQL, PostgreSQL, MongoDB — conceitos e prática)*
+- **Power BI**
 
+---
 
 ## 🛠️ Habilidades e Ferramentas
-
+<!--
 ### 💻 Linguagens  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,csharp&theme=dark&perline=3" />
 </p>
+ -->
 
 ### 🌐 Desenvolvimento Web  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
 </p>
-
+<!--
 ### 🧩 Frameworks, Bibliotecas & Ferramentas Front-End  
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,wordpress,tauri&theme=dark&perline=3" />
 </p>
-
+-->
+<!--
 ### ⚙️ Back-End & Ambiente  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,npm&theme=dark&perline=3" />
 </p>
-
+-->
+<!--
 ### 🗄️ Banco de Dados  
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3" />
 </p>
+-->
 
 ### 🎨 Design & UI/UX  
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd,blender&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,blender&theme=dark&perline=3" />
 </p>
 
 ### 🧰 Ferramentas Gerais  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,discord,electron&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,notion,electron&theme=dark&perline=3" />
 </p>
 
 
