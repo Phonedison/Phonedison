@@ -4,7 +4,7 @@ Sou **Designer Gráfico**, com experiência na criação de materiais internos e
 
 
 ## 🚀 Objetivo *~~: dominar o mundo~~*
-Desenvolver soluções como **Dev Full Stack**, unindo design, programação e análise de dados para criar ferramentas.
+Desenvolver soluções unindo design, programação e análise de dados para criar ferramentas úteis e simples.
 
 
 ## 🧠 Atualmente estudando
