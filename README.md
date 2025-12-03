@@ -31,12 +31,12 @@ Criar soluções que unam **design**, **programação** e **análise de dados**,
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
 </p>
-<!--
+
 ### 🧩 Frameworks, Bibliotecas & Ferramentas Front-End  
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,wordpress,tauri&theme=dark&perline=3" />
 </p>
--->
+
 <!--
 ### ⚙️ Back-End & Ambiente  
 <p>
