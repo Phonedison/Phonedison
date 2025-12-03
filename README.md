@@ -34,7 +34,7 @@ Criar soluções que unam **design**, **programação** e **análise de dados**,
 
 ### 🧩 Frameworks, Bibliotecas & Ferramentas Front-End  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,wordpress,tauri&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=wordpress,react,vite,tailwind,tauri&theme=dark&perline=3" />
 </p>
 
 <!--
