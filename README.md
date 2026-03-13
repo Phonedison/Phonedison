@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,ae,figma&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma&theme=dark&perline=5" />
   </a>
 </p>
 
