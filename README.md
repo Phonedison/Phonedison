@@ -1,74 +1,75 @@
-# 👋 Olá! Seja bem-vindo ao meu perfil  
-Meu nome é **Lucas**, mas você pode me chamar de **Phonedison**.
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkN2FoZGVrNGs2M2o3MmhrZ3U3cXZmYWg2dTRiNnYyazAxMWdzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
+</p>
 
-Sou **Designer Gráfico** com experiência em comunicação visual na área de transporte *(urbano e rodoviário)*. Atualmente estou em **transição de carreira para a área de tecnologia**, estudando **programação com foco em JavaScript, TypeScript, HTML e CSS**, além de frameworks modernos para desenvolvimento web e desktop.
-
-## 🚀 Objetivo 
-Criar soluções que unam **design**, **programação** e **análise de dados**, desenvolvendo ferramentas práticas, acessíveis e eficientes.
-
-
-## 🧠 Atualmente estudando
-
-- **JavaScript** e **TypeScript** *(principais linguagens em foco)*
-- **Node.js**
-- **React**
-- **HTML e CSS** *(estrutura, semântica e boas práticas)*
-- **Banco de Dados (SQL e NoSQL)**  
-  *(MySQL, PostgreSQL, MongoDB — conceitos e prática)*
-- **Power BI**
+<h1 align="center">👋 Olá! Eu sou o Lucas (Phonedison)</h1>
+<div align="center">
+  <h3>🎨 Designer Gráfico & 💻 Desenvolvedor em Transição</h3>
+  <p>Unindo a estética do design com a lógica da programação para criar experiências digitais incríveis.</p>
+</div>
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
 <!--
-### 💻 Linguagens  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,csharp&theme=dark&perline=3" />
-</p>
- -->
 
-### 🌐 Desenvolvimento Web  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
-</p>
+### 📖 Sobre Mim
 
-### 🧩 Frameworks, Bibliotecas & Ferramentas Front-End  
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,react,vite,tailwind,tauri&theme=dark&perline=3" />
-</p>
-
-<!--
-### ⚙️ Back-End & Ambiente  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm&theme=dark&perline=3" />
-</p>
--->
-<!--
-### 🗄️ Banco de Dados  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=3" />
-</p>
--->
-
-### 🎨 Design & UI/UX  
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,blender&theme=dark&perline=3" />
-</p>
-
-### 🧰 Ferramentas Gerais  
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,notion&theme=dark&perline=3" />
-</p>
-
-
-## 📈 Áreas de Interesse
-
-- Desenvolvimento Web (Front-End & Back-End)  
-- Desenvolvimento Mobile  
-- Automação e monitoramento  
-- Dashboards e análise de dados  
+- 🏗️ **Experiência:** Designer Gráfico com foco em comunicação visual no setor de transportes.
+- 🎓 **Foco Atual:** Transição para tecnologia, estudando Full-Stack com foco no ecossistema **JavaScript/TypeScript**.
+- 🎯 **Objetivo:** Criar ferramentas práticas e acessíveis que unam design moderno e performance.
 
 ---
 
-## 📬 Contato  
-📌 **LinkedIn:** https://www.linkedin.com/in/phonedzeus/
+-->
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+
+<h3 align="center">🌐 Desenvolvimento Web & Desktop</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,sass,vite,electron,tauri&theme=dark" />
+  </a>
+</p>
+
+<h3 align="center">🎨 Design & UI/UX</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,ae,figma,blender&theme=dark" />
+  </a>
+</p>
+
+<h3 align="center">🧰 Workflow & Geral</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,discord,wordpress&theme=dark" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Phonedison&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phonedison&layout=compact&langs_count=7&theme=dracula&locale=pt-br" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phonedison&theme=react&area=true&hide_border=true" />
+</div>
+
+---
+<!--
+<h2 align="center">📫 Vamos nos conectar?</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+-->
