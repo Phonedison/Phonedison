@@ -27,7 +27,7 @@
 <h3 align="center">🌐 Desenvolvimento Web & Desktop</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,sass,vite,vitest,vue,electron,tauri,py,wordpress,npm&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,tailwind,sass,vite,electron,react&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,ae,figma,blender&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,ae,figma&theme=dark&perline=5" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,notion,discord,wordpress&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,notion,discord&theme=dark&perline=6" />
   </a>
 </p>
 
