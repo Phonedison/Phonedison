@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>💫 Sobre mim:</h1>
-  <h3>🎨 Designer Gráfico & 💻 Desenvolvedor em Transição</h3>
-  <p>Unindo a estética do design com a lógica da programação para criar experiências digitais incríveis.</p>
+  <h1>💫 Sobre mim</h1>
+  <h3>🎨 Designer Gráfico • 💻 Desenvolvedor em Transição</h3>
+
+  <p>
+    🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes.
+  </p>
 </div>
 
 ---
@@ -36,7 +39,15 @@
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,notion,discord&theme=dark&perline=20" />
     </a>
   </p>
-</div>
+  </div>
+
+  <p  align="center">
+    <br/>
+    🌐 Confira meu portfólio: <br/>
+    <a href="https://phonedison.github.io/" target="_blank">
+      <strong>phonedison.github.io</strong>
+    </a>
+  </p>
 
 
 <div align="center">
