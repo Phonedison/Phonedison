@@ -57,9 +57,9 @@
 </div>
 <div  align="center">
   <div>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Phonedison&theme=blueberry&hide_border=false"/>
-  </div>
-  <div>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Phonedison&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&locale=pt-br"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phonedison&layout=compact&langs_count=7&theme=blueberry&locale=pt-br"/>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Phonedison&theme=dark&locrle=pt_BR" />
+    <img src="https://streak-stats.demolab.com/?user=Phonedison&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D"/> 
+    </picture>
   </div>
 </div>
