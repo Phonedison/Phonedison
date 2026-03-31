@@ -1,17 +1,16 @@
+
+
+<img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+
+ # 💫 Sobre mim
+ ## 🎨 Designer Gráfico • 💻 Desenvolvedor em Transição
+ 🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes.
+
+<br/>
+<br/>
+<br/>
 <div align="center">
-  <h1>💫 Sobre mim</h1>
-  <h3>🎨 Designer Gráfico • 💻 Desenvolvedor em Transição</h3>
-
-  <p>
-    🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes.
-  </p>
-</div>
-
----
-
-<br>
-<div align="center">
-  <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
 </div>
 <br>
 <div>
@@ -63,3 +62,5 @@
     </picture>
   </div>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
