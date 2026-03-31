@@ -3,10 +3,10 @@
 <img align="left" width="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
  # 💫 Sobre mim
- ## 🎨 Designer Gráfico • 💻 Desenvolvedor em Transição
+ ## 🎨 Designer Gráfico e em Transição para Desenvolvedor 💻
  🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes.
  
-<img align="Center" width="400" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img align="Center" width="450" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <br/>
 <div align="center">
