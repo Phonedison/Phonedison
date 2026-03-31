@@ -5,8 +5,8 @@
  # 💫 Sobre mim
  ## 🎨 Designer Gráfico • 💻 Desenvolvedor em Transição
  🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes. <br/> <br/>
+<img   width="700" align="Center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-<br/>
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
 </div>
