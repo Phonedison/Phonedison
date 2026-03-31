@@ -10,7 +10,6 @@
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
 </div>
-<br>
 <div>
    <h4 align="center">🎨 Design & UI/UX</h4>
     <p align="center">
