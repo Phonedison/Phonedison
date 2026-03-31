@@ -4,14 +4,8 @@
 
  # 💫 Sobre mim
  ## 🎨 Designer Gráfico • 💻 Desenvolvedor em Transição
- 🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes.
+ 🚀 Atualmente em evolução constante na área de desenvolvimento, com foco em criar soluções modernas, funcionais e visualmente impactantes. <br/> <br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
