@@ -80,11 +80,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phonedison&layout=compact&theme=dracula"/> <br/>
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phonedison&layout=compact&theme=dracula"/><br/>
 <img src="https://github-readme-stats.shion.dev/api?username=Phonedison&theme=dracula&include_all_commits=true&count_private=true"/>
 <img src="https://streak-stats.demolab.com/?user=Phonedison&theme=dracula"/>
-</p>
+</div>
 
 ---
 
