@@ -81,9 +81,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phonedison&layout=compact&theme=dracula"/><br/>
-<img src="https://github-readme-stats.shion.dev/api?username=Phonedison&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://streak-stats.demolab.com/?user=Phonedison&theme=dracula"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Phonedison&theme=github_dark_dimmed&langs_count=8&layout=compact&locale=pt-br"/><br/>
+<img src="https://github-readme-stats.shion.dev/api?username=Phonedison&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img src="https://streak-stats.demolab.com/?user=Phonedison&theme=github_dark_dimmed&locale=pt-br"/>
+
 </div>
 
 ---
