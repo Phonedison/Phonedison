@@ -9,7 +9,7 @@
 <p align="center">
 🌐 <strong>Confira meu portfólio:</strong><br/><br/>
  <img src="https://komarev.com/ghpvc/?username=Phonedison"><br/>
-<a href="https://phonedison.github.io/" target="_blank">phonedison.github.io</a>
+<a href="https://phonedison.netlify.app" target="_blank">phonedison.netlify.app</a>
 </p>
 
 ---
